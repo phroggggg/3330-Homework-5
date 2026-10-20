@@ -1,0 +1,15 @@
+ GUESS THE NUMBER!
+───────────────────────────────────
+Guess a number between 1 and 10.
+You have 3 attempts!
+
+Guess cannot exceed 10.
+
+Guess must be at least 1.
+
+A guess is required.
+
+GAME OVER!
+The secret number was 5.
+
+Thanks for playing!
